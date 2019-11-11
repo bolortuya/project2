@@ -1,0 +1,17 @@
+h2{
+  text-align: center;
+}
+#navbar ul li {
+    display:inline-block;
+    padding: 20px;
+    font-family: Arial;
+}
+#navbar{
+  text-align: center;
+  background-color: darkred;
+  text-decoration: none;
+}
+a {
+   text-decoration: none;
+   color: white;
+}
