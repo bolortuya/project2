@@ -32,3 +32,11 @@ body{
   font-family: Arial;
 
 }
+img{
+  width:300px;
+}
+.jewel_container, .wheels_container{
+  text-align: center;
+  font-family: ariel;
+  font-size: 18px;
+}
