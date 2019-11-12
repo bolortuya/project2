@@ -15,3 +15,20 @@ a {
    text-decoration: none;
    color: white;
 }
+body{
+  background-image: url("/Users/bolortuyatumurbaatar/Desktop/project2/pictures/pattern.jpg");
+}
+#intro_pic{
+  width: 300px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#intro{
+  width: auto;
+  text-align: center;
+  background-color: white;
+  font-family: Arial;
+
+}
