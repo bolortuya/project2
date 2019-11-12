@@ -19,7 +19,7 @@ body{
   background-image: url("/Users/bolortuyatumurbaatar/Desktop/project2/pictures/pattern.JPG");
 }
 #intro_pic{
-  width: 300px;
+  width: "300px";
   text-align: center;
   display: block;
   margin-left: auto;
@@ -33,7 +33,7 @@ body{
 
 }
 img{
-  width:300px;
+  width:"300px";
 }
 .jewel_container, .wheels_container{
   text-align: center;
