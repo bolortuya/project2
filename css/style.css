@@ -16,7 +16,7 @@ a {
    color: white;
 }
 body{
-  background-image: url("./pictures/pattern.jpg");
+  background-image: url("../pictures/pattern.jpg");
 }
 #intro_pic{
   width: 300px;
