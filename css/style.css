@@ -1,5 +1,9 @@
 h2{
   text-align: center;
+  font-family: 'Secular One', sans-serif;
+  font-size: 2em;
+  color: darkred;
+  padding: 10px;
 }
 #navbar ul li {
     display:inline-block;
@@ -19,19 +23,27 @@ body{
   background-image: url("../pictures/pattern.jpg");
 }
 #intro_pic{
-  width: 300px;
+  width: 250px;
   text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: solid 2px;
 }
 #intro{
   width: auto;
   text-align: center;
   background-color: white;
   font-family: Arial;
+  line-height: 32px;   /* within paragraph */
+  margin-bottom: 30px;
 }
-
+ p{
+  font-size: 20px;
+  padding: 10px
+  font-family: 'Secular One', sans-serif;
+  color: darkblue;
+}
 img{
   width:300px;
 }
