@@ -39,3 +39,12 @@ img{
   font-family: ariel;
   font-size: 18px;
 }
+#logo_div{
+}
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 100px;
+}
