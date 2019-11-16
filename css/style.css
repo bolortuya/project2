@@ -1,6 +1,6 @@
 h2{
   text-align: center;
-  font-family: 'Secular One', sans-serif;
+  font-family: 'Secular One', sans-serif, 'Ariel';
   font-size: 2em;
   color: darkred;
   padding: 10px;
@@ -41,7 +41,7 @@ body{
  p{
   font-size: 20px;
   padding: 10px;
-  font-family: 'Secular One', sans-serif;
+  font-family: 'Secular One', sans-serif, 'Arial';
   color: darkblue;
 }
 img{
