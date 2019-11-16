@@ -1,8 +1,13 @@
+/*
+color scheme link:
+https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=3F51B5
+*/
+
 h2{
   text-align: center;
   font-family: 'Secular One', sans-serif, 'Ariel';
   font-size: 2em;
-  color: darkred;
+  color: #3f51b5;
   padding: 10px;
 }
 #navbar ul li {
@@ -12,7 +17,7 @@ h2{
 }
 #navbar{
   text-align: center;
-  background-color: darkred;
+  background-color: #3f51b5;
   text-decoration: none;
 }
 a {
@@ -42,7 +47,7 @@ body{
   font-size: 20px;
   padding: 10px;
   font-family: 'Secular One', sans-serif, 'Arial';
-  color: darkblue;
+  color: #002984;
 }
 img{
   width:300px;
@@ -73,7 +78,7 @@ input[type=text], #email, textarea {
 }
 
 input[type=submit] {
-  background-color: #00008B;
+  background-color: #3f51b5;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -94,18 +99,20 @@ input[type=submit]:hover {
 }
 #container label{
   font-size: 22px;
+  color:white;
+
 }
 /*small mobile screen */
 @media screen and (max-width: 480px) {
   #navbar ul li {
       display: inline-block;
       padding: 8px;
-      font-family: "Arial", "Times New Roman", "serif";;
+      font-family: "Arial", "Times New Roman", "serif";
+      color: white;
   }
   #container{
     margin: 10px;
     padding: 20px;
-    background-color: grey;
    }
    #container label{
      font-size: 18px;
@@ -119,7 +126,7 @@ input[type=submit]:hover {
     margin: auto;
     width: 40%;
     padding: 10px;
-    background-color: grey;
+    background-color: #757de8;
    }
    #contact_par{
      padding: 20px;
