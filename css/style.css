@@ -102,7 +102,7 @@ input[type=submit]:hover {
   #container{
     margin: 10px;
     padding: 20px;
-    background-color: red;
+    background-color: grey;
    }
   }
 /* Desktop screen */
@@ -113,7 +113,7 @@ input[type=submit]:hover {
     margin: auto;
     width: 40%;
     padding: 10px;
-    background-color: red;
+    background-color: grey;
    }
    #contact_par{
      padding: 20px;
