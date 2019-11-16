@@ -92,6 +92,9 @@ input[type=submit]:hover {
   text-align: center;
   font-size: 20px;
 }
+#container label{
+  font-size: 22px;
+}
 /*small mobile screen */
 @media screen and (max-width: 480px) {
   #navbar ul li {
