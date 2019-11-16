@@ -34,7 +34,7 @@ body{
   width: auto;
   text-align: center;
   background-color: white;
-  font-family: Arial;
+  font-family: "Arial", "Times New Roman", "serif";
   line-height: 32px;   /* within paragraph */
   margin-bottom: 30px;
 }
@@ -106,6 +106,9 @@ input[type=submit]:hover {
     margin: 10px;
     padding: 20px;
     background-color: grey;
+   }
+   #container label{
+     font-size: 18px;
    }
   }
 /* Desktop screen */

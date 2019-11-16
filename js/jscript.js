@@ -21,5 +21,6 @@ function init() {
   else {
 		alert("Message sent!");
 		return true;
+    e.preventDefault();
 	}
 }
