@@ -8,7 +8,7 @@ h2{
 #navbar ul li {
     display:inline-block;
     padding: 20px;
-    font-family: Arial;
+    font-family: "Arial", "Times New Roman", "serif";
 }
 #navbar{
   text-align: center;
