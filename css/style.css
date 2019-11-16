@@ -49,7 +49,7 @@ img{
 }
 .jewel_container, .wheels_container{
   text-align: center;
-  font-family: ariel;
+  font-family: "Ariel", "Times New Roman", "serif";;
   font-size: 18px;
 }
 #logo_div{
@@ -100,7 +100,7 @@ input[type=submit]:hover {
   #navbar ul li {
       display: inline-block;
       padding: 8px;
-      font-family: Arial;
+      font-family: "Arial", "Times New Roman", "serif";;
   }
   #container{
     margin: 10px;
